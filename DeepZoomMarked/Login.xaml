@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="DeepZoomMarked.Login"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400" >
+
+  <StackPanel x:Name="LayoutRoot" >
+      <StackPanel Name="view" Visibility="Collapsed">
+    <StackPanel Name="Loginpanel">
+                <Grid Background="White">
+                    <TextBlock Grid.Row="0">Name</TextBlock>
+                </Grid>
+                <Grid Background="White">
+                    <TextBox Grid.Row="1" Text="{Binding Name, Mode=TwoWay}" Name="NameBox" />
+                </Grid>
+                <Grid Background="White">
+                    <TextBlock Grid.Row="2">Password</TextBlock>
+                </Grid>
+                <PasswordBox Grid.Row="3" Password="{Binding Password, Mode=TwoWay}" Name="passwordBox" />
+      <Button TabIndex="0" Name="butLogin" Grid.Row="4" Click="Button_Click">Login</Button>
+    </StackPanel>
+    <StackPanel Name="LogOutPanel" Visibility="Collapsed">
+                <Grid Background="White">
+                    <TextBlock  Grid.Row="0">Owner</TextBlock>
+                </Grid>
+                <Grid Background="White">
+                    <TextBlock Name="ownerView"  Grid.Row="1" Text="{Binding UserId}" />
+                </Grid>
+                <Grid Background="White">
+                    <TextBlock Grid.Row="2">Document</TextBlock>
+                </Grid>
+
+                <Grid Background="White">
+                    <TextBlock Name="docView"  Grid.Row="3" />
+                </Grid>
+                <Button  Name="butLogout" Grid.Row="4" Click="butLogout_Click" >Logout</Button>     
+    </StackPanel>
+    <Button Name="butExit" Grid.Row="5" Click="exitClick">Exit</Button>
+        </StackPanel>
+        <TextBlock Name="statusView" Opacity="0.01" Grid.Row="6" MouseLeftButtonUp="statusView_MouseLeftButtonUp_1" MouseEnter="statusView_MouseEnter_1" MouseLeave="statusView_MouseLeave_1"/>
+  </StackPanel>
+</UserControl>
