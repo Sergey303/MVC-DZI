@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDZCassetesDemo", "WebDZCassetesDemo\WebDZCassetesDemo.csproj", "{94A67CF3-C469-4845-89B1-4F9F98E032E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeepZoomMarked", "DeepZoomMarked\DeepZoomMarked.csproj", "{F41651B6-7865-4F21-ADBE-DB5E6EFC1BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentStorage", "..\Cassettes\DocumentStorage\DocumentStorage.csproj", "{07419DE5-5ED7-43DC-9E98-2CF26FF06187}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94A67CF3-C469-4845-89B1-4F9F98E032E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A67CF3-C469-4845-89B1-4F9F98E032E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A67CF3-C469-4845-89B1-4F9F98E032E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A67CF3-C469-4845-89B1-4F9F98E032E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F41651B6-7865-4F21-ADBE-DB5E6EFC1BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F41651B6-7865-4F21-ADBE-DB5E6EFC1BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F41651B6-7865-4F21-ADBE-DB5E6EFC1BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F41651B6-7865-4F21-ADBE-DB5E6EFC1BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07419DE5-5ED7-43DC-9E98-2CF26FF06187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07419DE5-5ED7-43DC-9E98-2CF26FF06187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07419DE5-5ED7-43DC-9E98-2CF26FF06187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07419DE5-5ED7-43DC-9E98-2CF26FF06187}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		VD_Solution = <?xml version="1.0" encoding="utf-16"?>|§r|§n<DocumentsSolution xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">|§r|§n  <m_persistedPinnedDocumentGroupLabels />|§r|§n</DocumentsSolution>
+	EndGlobalSection
+EndGlobal
