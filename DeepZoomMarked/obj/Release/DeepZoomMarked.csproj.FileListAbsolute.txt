@@ -1,0 +1,5 @@
+G:\Home\dev\DeepZoomMarked\obj\Release\App.g.cs
+G:\Home\dev\DeepZoomMarked\obj\Release\DeepZPoints.g.cs
+G:\Home\dev\DeepZoomMarked\obj\Release\Login.g.cs
+G:\Home\dev\DeepZoomMarked\obj\Release\Mark.g.cs
+G:\Home\dev\DeepZoomMarked\obj\Release\DeepZoomMarked.g.resources

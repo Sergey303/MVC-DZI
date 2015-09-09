@@ -1,0 +1,157 @@
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\DeepZoomMarked.csprojResolveAssemblyReference.cache
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\App.g.cs
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\DeepZPoints.g.cs
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\Login.g.cs
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\Mark.g.cs
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\DeepZoomMarked.g.resources
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\DeepZoomMarked.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\DeepZoomMarked.pdb
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\AppManifest.xaml
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\DeepZoomMarked.xap
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\DeepZoomMarkedTestPage.html
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\System.Xml.Linq.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\System.Xml.Linq.xml
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\DeepZoomMarked.dll
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\DeepZoomMarked.pdb
+C:\Users\luxveritatis\Documents\dev\DeepZoomMarked\obj\Debug\XapCacheFile.xml
+G:\Home\dev\DeepZoomMarked\Bin\Debug\DeepZoomMarked.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\DeepZoomMarked.pdb
+G:\Home\dev\DeepZoomMarked\Bin\Debug\AppManifest.xaml
+G:\Home\dev\DeepZoomMarked\Bin\Debug\DeepZoomMarked.xap
+G:\Home\dev\DeepZoomMarked\Bin\Debug\DeepZoomMarkedTestPage.html
+G:\Home\dev\DeepZoomMarked\Bin\Debug\System.Xml.Linq.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\System.Windows.Controls.xml
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ar\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\bg\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ca\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\cs\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\da\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\de\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\el\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\es\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\et\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\eu\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\fi\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\fr\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\he\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\hr\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\hu\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\id\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\it\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ja\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ko\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\lt\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\lv\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ms\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\nl\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\no\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\pl\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\pt\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ro\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ru\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\sk\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\sl\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\sv\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\th\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\tr\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\uk\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\vi\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\de\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\es\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\fr\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\it\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ja\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ko\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\ru\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+G:\Home\dev\DeepZoomMarked\obj\Debug\DeepZoomMarked.g.resources
+G:\Home\dev\DeepZoomMarked\obj\Debug\DeepZoomMarked.dll
+G:\Home\dev\DeepZoomMarked\obj\Debug\DeepZoomMarked.pdb
+G:\Home\dev\DeepZoomMarked\obj\Debug\XapCacheFile.xml
+G:\Home\dev\DeepZoomMarked\obj\Debug\DeepZoomMarked.csprojResolveAssemblyReference.cache
+G:\Home\dev\DeepZoomMarked\obj\Debug\App.g.cs
+G:\Home\dev\DeepZoomMarked\obj\Debug\DeepZPoints.g.cs
+G:\Home\dev\DeepZoomMarked\obj\Debug\Login.g.cs
+G:\Home\dev\DeepZoomMarked\obj\Debug\Mark.g.cs
+C:\work iis\DeepZoomMarked\Bin\Debug\DeepZoomMarked.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\DeepZoomMarked.pdb
+C:\work iis\DeepZoomMarked\Bin\Debug\AppManifest.xaml
+C:\work iis\DeepZoomMarked\Bin\Debug\DeepZoomMarked.xap
+C:\work iis\DeepZoomMarked\Bin\Debug\DeepZoomMarkedTestPage.html
+C:\work iis\DeepZoomMarked\Bin\Debug\System.Xml.Linq.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\work iis\DeepZoomMarked\obj\Debug\App.g.cs
+C:\work iis\DeepZoomMarked\obj\Debug\DeepZPoints.g.cs
+C:\work iis\DeepZoomMarked\obj\Debug\Login.g.cs
+C:\work iis\DeepZoomMarked\obj\Debug\Mark.g.cs
+C:\work iis\DeepZoomMarked\obj\Debug\DeepZoomMarked.g.resources
+C:\work iis\DeepZoomMarked\obj\Debug\DeepZoomMarked.dll
+C:\work iis\DeepZoomMarked\obj\Debug\DeepZoomMarked.pdb
+C:\work iis\DeepZoomMarked\obj\Debug\XapCacheFile.xml
+C:\work iis\DeepZoomMarked\Bin\Debug\System.Xml.Linq.xml
+C:\work iis\DeepZoomMarked\obj\Debug\OCRSEarchResult.g.cs
+C:\work iis\DeepZoomMarked\obj\Debug\DeepZoomMarked.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\App.g.cs
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\DeepZPoints.g.cs
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\OCRSEarchResult.g.cs
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\Login.g.cs
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\Mark.g.cs
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\DeepZoomMarked.g.resources
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\DeepZoomMarked.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\DeepZoomMarked.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\DeepZoomMarked.pdb
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\AppManifest.xaml
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\DeepZoomMarked.xap
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\DeepZoomMarkedTestPage.html
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\System.Xml.Linq.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\System.Xml.Linq.xml
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\de\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\es\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\fr\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\it\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\ja\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\ko\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\ru\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\zh-Hans\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\Bin\Debug\zh-Hant\System.Xml.Linq.resources.dll
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\DeepZoomMarked.pdb
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\XapCacheFile.xml
+C:\Users\Admin\Source\Repos\WebDZCassetesDemo\WebDZCassetesDemo\client bin\DeepZoomMarked.dll
+C:\Users\Admin\Source\Repos\WebDZCassetesDemo\WebDZCassetesDemo\client bin\DeepZoomMarked.pdb
+C:\Users\Admin\Source\Repos\WebDZCassetesDemo\WebDZCassetesDemo\client bin\AppManifest.xaml
+C:\Users\Admin\Source\Repos\WebDZCassetesDemo\WebDZCassetesDemo\client bin\DeepZoomMarked.xap
+C:\Users\Admin\Source\Repos\WebDZCassetesDemo\WebDZCassetesDemo\client bin\DeepZoomMarkedTestPage.html
+C:\Users\Admin\Source\Repos\DocumentsStore\DeepZoomMarked\obj\Debug\DeepZoomMarked.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\DeepZoomMarked.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\App.g.cs
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\DeepZPoints.g.cs
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\OCRSEarchResult.g.cs
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\Login.g.cs
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\Mark.g.cs
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\DeepZoomMarked.g.resources
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\DeepZoomMarked.dll
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\DeepZoomMarked.pdb
+C:\Users\Admin\Source\Repos\MVC-DZI\DeepZoomMarked\obj\Debug\XapCacheFile.xml
