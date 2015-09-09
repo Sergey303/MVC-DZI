@@ -1,0 +1,37 @@
+﻿@{
+    Layout = null;
+    var cassetteName = "newspaper";
+    var directory = "0014";
+    var file = "0781/";
+    var hostWebApp = "http://92.127.240.147/WebDZCassetesDemo";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>      
+    <script src="http://openseadragon.github.io/openseadragon/openseadragon.min.js"></script>
+</head>
+<body>
+    <div id="example-xmlhttprequest-for-dzi"
+         class="openseadragon" style="width: 1280px; height: 1024px;">
+        
+        <script type="text/javascript">
+    OpenSeadragon({
+        id: "example-xmlhttprequest-for-dzi",
+
+        tileSources: ["@hostWebApp/dzi/@cassetteName/@directory/@file"]
+        }
+    );
+        </script>
+        <noscript>
+            <p>OpenSeadragon is not available unless JavaScript is enabled.</p>
+            <img src='/example-images/highsmith/01967v.jpg'
+                 height='600' />
+        </noscript>
+    </div>                           
+
+</body>
+</html>

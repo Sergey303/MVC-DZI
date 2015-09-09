@@ -4,7 +4,7 @@
     var cassetteName = "newspaper";
     var directory = "0014";
     var file = "0781";
-    
+    var hostWebApp = "http://92.127.240.147/WebDZCassetesDemo"; 
 }
 
     <!DOCTYPE html>
@@ -70,7 +70,7 @@
 <body>
     <object data="data:application/x-silverlight-2," type="application/x-silverlight-2" width="100%" height="100%">
         <param name="source" value="ClientBin/DeepZoomMarked.xap" />
-        <param id="initParamsId" runat="server" name="initParams" value=" path=http://localhost:34167/dzi/@cassetteName/@directory/@file" />
+        <param id="initParamsId" runat="server" name="initParams" value=" path=@hostWebApp/dzi/@cassetteName/@directory/@file" />
         <param name="onError" value="onSilverlightError" />
         <param name="background" value="white" />
         <param name="minRuntimeVersion" value="5.0.61118.0" />

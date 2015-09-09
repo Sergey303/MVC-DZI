@@ -8,12 +8,19 @@ namespace WebDZCassetesDemo
     public class DziController : Controller
     {
         [Route("{cassetteName}/{dirName}/{fileName}_files/{level}/{x}_{y}.jpg")]
-        public ActionResult GetDZIJpeg(string cassetteName, string dirName, string fileName, string level, string x, string y)
+        public ActionResult GetDZISilverlightJpeg(string cassetteName, string dirName, string fileName, string level, string x, string y)
         {
             return File(DStorage.GetFileFromSarc(cassetteName, dirName, fileName,
                         string.Format("{0}_files/{1}/{2}_{3}.jpg", fileName, level, x, y)), "image/jpg");
         }
 
+
+        [Route("{cassetteName}/{dirName}/{fileName}/{level}/{x}_{y}.jpg")]
+        public ActionResult GetDZIOSDJpeg(string cassetteName, string dirName, string fileName, string level, string x, string y)
+        {
+            return File(DStorage.GetFileFromSarc(cassetteName, dirName, fileName,
+                        string.Format("{0}_files/{1}/{2}_{3}.jpg", fileName, level, x, y)), "image/jpg");
+        }
 
 
         [Route("{cassetteName}/{dirName}/{fileName}")]

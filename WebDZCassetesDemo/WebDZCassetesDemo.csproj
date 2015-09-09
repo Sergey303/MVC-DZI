@@ -14,7 +14,7 @@
     <RootNamespace>WebDZCassetesDemo</RootNamespace>
     <AssemblyName>WebDZCassetesDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <UseIISExpress>true</UseIISExpress>
+    <UseIISExpress>false</UseIISExpress>
     <IISExpressSSLPort />
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
@@ -88,6 +88,7 @@
   <ItemGroup>
     <Content Include="DeepZoomView.cshtml" />
     <Content Include="packages.config" />
+    <Content Include="DZIOpenSeadragon.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -119,7 +120,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>34167</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:34167/</IISUrl>
+          <IISUrl>http://localhost/WebDZCassetesDemo</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
